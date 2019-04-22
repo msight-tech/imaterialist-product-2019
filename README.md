@@ -19,13 +19,13 @@ We use Kaggle to hold our competiton: https://www.kaggle.com/c/imaterialist-prod
 
 - **April 1, 2019** - Competition starts.
 
-- **May 19, 2019** - Entry deadline. You must accept the competition rules before this date in order to compete.
+- ~~May 19, 2019~~ **May 26, 2019** - Entry deadline. You must accept the competition rules before this date in order to compete.
 
-- **May 19, 2019** - Team Merger deadline. This is the last day participants may join or merge teams.
+- ~~May 19, 2019~~ **May 26, 2019** - Team Merger deadline. This is the last day participants may join or merge teams.
 
-- **May 26, 2019** - Final submission deadline.
+-  ~~May 26, 2019~~ **June 2, 2019** - Final submission deadline.
 
-All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted. The competition organizers reserve the right to update the contest timeline if they deem it necessary.
+The original deadline has been extended for one week to be consistent with other FGVC6 challenges. All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted. The competition organizers reserve the right to update the contest timeline if they deem it necessary.
 
 
 ## Dataset Format and Download
