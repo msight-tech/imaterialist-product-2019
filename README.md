@@ -6,7 +6,7 @@
 
 As online shopping and retail AI become ubiquitous in our daily life,  it is imperative for computer vision systems to automatically and accurately recognize products based on images at the stock keeping unit (SKU) level. However, this still remains a challenging problem since there is a large number of SKU-level categories, many of which are fine-grained, with very subtle differences that cannot be easily distinguished. At the same time, images of the same product or SKU can often look different under different conditions (*e.g.*, user generated content v.s. professional generated content).
 
-This competition is part of the fine-grained visual-categorization workshop ([FGVC6 workshop](https://sites.google.com/view/fgvc6/home)) at [CVPR 2019](http://cvpr2019.thecvf.com/). By providing a large scale dataset and hosting a competition, [Malong Technologies](https://www.malong.com/en/home) and FGVC workshop organizers encourage computer vision researchers to develop novel algorithms to tackle this interesting problem. Individuals/teams with top submissions will present their work at the FGVC6 workshop and win cash prizes:
+This competition is part of the fine-grained visual-categorization workshop ([FGVC6 workshop](https://sites.google.com/view/fgvc6/home)) at [CVPR 2019](http://cvpr2019.thecvf.com/). By providing a large scale dataset and hosting a competition, [Malong Technologies](https://www.malongtech.com/) and FGVC workshop organizers encourage computer vision researchers to develop novel algorithms to tackle this interesting problem. Individuals/teams with top submissions will present their work at the FGVC6 workshop and win cash prizes:
 
  - 1st place: $ 1,500
  - 2nd place: $ 1,000
@@ -122,4 +122,4 @@ Lingshu Kong, Malong Technologies
 
 Matt Scott, Malong Technologies
 
-For any questions please contact iproduct2019@malong.com
+For any questions please contact github@malongtech.com
